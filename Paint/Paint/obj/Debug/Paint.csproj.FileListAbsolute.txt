@@ -1,0 +1,10 @@
+C:\Users\CompTEL\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\CompTEL\source\repos\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\CompTEL\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.Paint.resources
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\CompTEL\source\repos\Paint\Paint\obj\Debug\Paint.pdb
